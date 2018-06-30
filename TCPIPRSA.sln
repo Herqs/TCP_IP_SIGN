@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPRSA", "TCPIPRSA\TCPIPRSA.csproj", "{029895B0-7C11-4A7F-862E-C6FB5E6B40F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPCLIENT", "TCPIPCLIENT\TCPIPCLIENT.csproj", "{70B4298C-C292-454B-A040-BEF0B1897491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029895B0-7C11-4A7F-862E-C6FB5E6B40F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029895B0-7C11-4A7F-862E-C6FB5E6B40F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029895B0-7C11-4A7F-862E-C6FB5E6B40F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029895B0-7C11-4A7F-862E-C6FB5E6B40F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B4298C-C292-454B-A040-BEF0B1897491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B4298C-C292-454B-A040-BEF0B1897491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B4298C-C292-454B-A040-BEF0B1897491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B4298C-C292-454B-A040-BEF0B1897491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6CDD64-EBA3-44D6-998B-6EF3116FCF68}
+	EndGlobalSection
+EndGlobal
